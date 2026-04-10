@@ -1,0 +1,5 @@
+Referencia:
+
+Goodrich, Michael T., Tamassia, Roberto.
+Data Structures and Algorithms in Java.
+Capítulo de árboles binarios de búsqueda (BST).
