@@ -1,4 +1,4 @@
-package view;
+package Main;
 
 import controller.DictionaryController;
 
